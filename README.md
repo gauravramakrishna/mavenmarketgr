@@ -3,4 +3,4 @@ Maven Market is a multi-national grocery chain with locations in Canada, Mexico 
 
 The dataset included the following folders: MavenMarket_Calendar.csv, MavenMarket_Customers.csv, MavenMarket_Products.csv, MavenMarket_Regions.csv, MavenMarket_Returns_1997-1998.csv, MavenMarket_Stores.csv, MavenMarket_Transactions_1997.csv, MavenMarket_Transactions_1998.csv
 
-PDF link: https://drive.google.com/drive/folders/14P4Zi8TgChl0i4KMJD3CPrcFDchB6DK0?usp=drive_link
+Project PDF link: https://drive.google.com/file/d/1hjPCaW8TKVHfi7NkNS3O69jb8dRzeipG/view?usp=drive_link
